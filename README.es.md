@@ -20,6 +20,10 @@ pip install cafeto
 
 [Cafeto docs](https://if-geek.github.io/cafeto/)
 
+## Proyecto de ejemplo
+
+[Cafeto Example](https://github.com/if-geek/cafeto_example)
+
 ## Descripción
 
 Cafeto es un framework diseñado para crear APIs de manera eficiente y organizada, inspirado en otros frameworks y enriquecido con ideas innovadoras.
