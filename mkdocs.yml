@@ -1,0 +1,124 @@
+site_name: Cafeto
+repo_url: https://github.com/if-geek/cafeto
+repo_name: If Geek/Cafeto
+
+nav:
+  - Home: en/index.md
+  - "DTO":
+    - "DTO": en/dto/dto.md
+    - "GenericResponse": en/dto/generic_response.md
+  - "Controllers and Actions": en/controllers_and_actions.md
+  - Requests: en/request.md
+  - Response: en/response.md
+  - Parameters: en/params.md
+  - Validation: en/validations.md
+  - Access Control: en/access_control.md
+  - Websockets: en/websockets.md
+  - Dependency Injection: en/dependency_injection.md
+  - Services:
+    - "Default Services": en/services/default_services.md
+    - "AContextService": en/services/context.md
+  - "Starlette Request Object": en/starlette_request_object.md
+  - Events: en/events.md
+  - "OpenApi and Swagger": en/schema.md
+  - API: en/api.md
+  - Other:
+    - Coming Soon: en/other/coming_soon.md
+    - Altrnatives: en/other/alternatives.md
+    - License: en/other/license.md
+  - Sponsor: en/sponsor.md
+
+plugins:
+  - search:
+      lang:
+        - en
+        - es
+      separator: '[\s\-\.]+'
+  - i18n:
+      reconfigure_search: true
+      docs_structure: folder
+      languages:
+        - locale: en
+          default: true
+          name: English
+          build: true
+        - locale: es
+          name: Español
+          build: true
+          nav_translations:
+            Home: Inicio
+            DTO: DTO
+            "Controllers and Actions": "Controladores y acciones"
+            Requests: Request
+            Response: Response
+            Parameters: Parámetros
+            Validation: Validación
+            "Access Control": "Control de acceso"
+            Websockets: Websockets
+            "Dependency Injection": "Inyección de dependencias"
+            "Starlette Request Object": "Objeto Request de Starlette"
+            Events: Evetos
+            "OpenApi and Swagger": "OpenApi y Swagger"
+            "Coming Soon": "Próximamente"
+            API: API
+            Altrnatives: Alternativas
+            License: Licencia
+            Sponsor: Patrocinador
+            Services: Servicios
+            "Default Services": "Servicios por defecto"
+
+markdown_extensions:
+  - pymdownx.tabbed:
+      alternate_style: true
+  - attr_list
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+  - pymdownx.highlight:
+      use_pygments: true
+      linenums: true
+      auto_title: true
+      pygments_style: monokai
+  - admonition
+  - codehilite
+  - toc:
+      permalink: true
+  - pymdownx.arithmatex
+  - pymdownx.betterem
+  - pymdownx.caret
+  - pymdownx.critic
+  - pymdownx.details
+  - pymdownx.inlinehilite
+  - pymdownx.keys
+  - pymdownx.mark
+  - pymdownx.smartsymbols
+  - pymdownx.superfences
+  - pymdownx.tabbed
+  - pymdownx.tasklist
+  - pymdownx.tilde
+  - def_list
+
+theme:
+  name: 'material'
+  icon:
+    repo: fontawesome/brands/github
+  palette:
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: indigo
+      accent: indigo
+  features:
+    - content.code.copy
+    - content.code.select
+    - content.code.annotate
+
+extra:
+  version:
+    provider: mike
+    default: stable
+    alias: true

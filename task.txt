@@ -1,0 +1,19 @@
+# Run flake8:
+python -m flake8 cafeto/
+
+# Run PyTest
+python -m pytest --cov=. --cov-report=term -s -v
+
+# Run Mkdocs
+python -m mkdocs build
+python -m mkdocs serve
+
+# Run hatchling
+python -m hatchling build
+
+# Mike (Mkdocs)
+## - Create first: gh-pages on github
+##   git push origin gh-pages
+## - Create default
+##   mike set-default --push stable
+mike deploy --push --update-aliases 0.1.0 stable

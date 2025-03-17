@@ -1,0 +1,12 @@
+[run]
+omit =
+    */tests/*
+    *.html
+    *.js
+    *.css
+    main.py
+    cafeto/middleware/__init__.py
+    cafeto/staticfiles/__init__.py
+    cafeto/routing/__init__.py
+    cafeto/datastructures/__init__.py
+    cafeto/templating/__init__.py

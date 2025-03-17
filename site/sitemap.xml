@@ -1,0 +1,297 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <url>
+        <loc>None./</loc>
+        <lastmod>2025-03-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="None"/>
+        <xhtml:link rel="alternate" hreflang="es" href="Nonees/"/>
+    </url>
+    <url>
+        <loc>Noneaccess_control/</loc>
+        <lastmod>2025-03-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneaccess_control/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="Nonees/access_control/"/>
+    </url>
+    <url>
+        <loc>Noneapi/</loc>
+        <lastmod>2025-03-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="Nonees/api/"/>
+    </url>
+    <url>
+        <loc>Nonecontrollers_and_actions/</loc>
+        <lastmod>2025-03-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonecontrollers_and_actions/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="Nonees/controllers_and_actions/"/>
+    </url>
+    <url>
+        <loc>Nonedependency_injection/</loc>
+        <lastmod>2025-03-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonedependency_injection/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="Nonees/dependency_injection/"/>
+    </url>
+    <url>
+        <loc>Noneevents/</loc>
+        <lastmod>2025-03-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneevents/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="Nonees/events/"/>
+    </url>
+    <url>
+        <loc>Noneparams/</loc>
+        <lastmod>2025-03-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneparams/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="Nonees/params/"/>
+    </url>
+    <url>
+        <loc>Nonerequest/</loc>
+        <lastmod>2025-03-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonerequest/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="Nonees/request/"/>
+    </url>
+    <url>
+        <loc>Noneresponse/</loc>
+        <lastmod>2025-03-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneresponse/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="Nonees/response/"/>
+    </url>
+    <url>
+        <loc>Noneschema/</loc>
+        <lastmod>2025-03-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneschema/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="Nonees/schema/"/>
+    </url>
+    <url>
+        <loc>Nonesponsor/</loc>
+        <lastmod>2025-03-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonesponsor/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="Nonees/sponsor/"/>
+    </url>
+    <url>
+        <loc>Nonestarlette_request_object/</loc>
+        <lastmod>2025-03-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonestarlette_request_object/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="Nonees/starlette_request_object/"/>
+    </url>
+    <url>
+        <loc>Nonevalidations/</loc>
+        <lastmod>2025-03-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonevalidations/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="Nonees/validations/"/>
+    </url>
+    <url>
+        <loc>Nonewebsockets/</loc>
+        <lastmod>2025-03-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonewebsockets/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="Nonees/websockets/"/>
+    </url>
+    <url>
+        <loc>Nonedto/dto/</loc>
+        <lastmod>2025-03-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonedto/dto/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="Nonees/dto/dto/"/>
+    </url>
+    <url>
+        <loc>Nonedto/generic_response/</loc>
+        <lastmod>2025-03-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonedto/generic_response/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="Nonees/dto/generic_response/"/>
+    </url>
+    <url>
+        <loc>Noneother/alternatives/</loc>
+        <lastmod>2025-03-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneother/alternatives/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="Nonees/other/alternatives/"/>
+    </url>
+    <url>
+        <loc>Noneother/coming_soon/</loc>
+        <lastmod>2025-03-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneother/coming_soon/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="Nonees/other/coming_soon/"/>
+    </url>
+    <url>
+        <loc>Noneother/license/</loc>
+        <lastmod>2025-03-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneother/license/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="Nonees/other/license/"/>
+    </url>
+    <url>
+        <loc>Noneservices/context/</loc>
+        <lastmod>2025-03-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneservices/context/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="Nonees/services/context/"/>
+    </url>
+    <url>
+        <loc>Noneservices/default_services/</loc>
+        <lastmod>2025-03-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneservices/default_services/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="Nonees/services/default_services/"/>
+    </url>
+    <url>
+        <loc>Nonees/</loc>
+        <lastmod>2025-03-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="es" href="Nonees/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="None"/>
+    </url>
+    <url>
+        <loc>Nonees/access_control/</loc>
+        <lastmod>2025-03-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="es" href="Nonees/access_control/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneaccess_control/"/>
+    </url>
+    <url>
+        <loc>Nonees/api/</loc>
+        <lastmod>2025-03-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="es" href="Nonees/api/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/"/>
+    </url>
+    <url>
+        <loc>Nonees/controllers_and_actions/</loc>
+        <lastmod>2025-03-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="es" href="Nonees/controllers_and_actions/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonecontrollers_and_actions/"/>
+    </url>
+    <url>
+        <loc>Nonees/dependency_injection/</loc>
+        <lastmod>2025-03-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="es" href="Nonees/dependency_injection/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonedependency_injection/"/>
+    </url>
+    <url>
+        <loc>Nonees/events/</loc>
+        <lastmod>2025-03-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="es" href="Nonees/events/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneevents/"/>
+    </url>
+    <url>
+        <loc>Nonees/params/</loc>
+        <lastmod>2025-03-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="es" href="Nonees/params/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneparams/"/>
+    </url>
+    <url>
+        <loc>Nonees/request/</loc>
+        <lastmod>2025-03-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="es" href="Nonees/request/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonerequest/"/>
+    </url>
+    <url>
+        <loc>Nonees/response/</loc>
+        <lastmod>2025-03-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="es" href="Nonees/response/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneresponse/"/>
+    </url>
+    <url>
+        <loc>Nonees/schema/</loc>
+        <lastmod>2025-03-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="es" href="Nonees/schema/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneschema/"/>
+    </url>
+    <url>
+        <loc>Nonees/sponsor/</loc>
+        <lastmod>2025-03-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="es" href="Nonees/sponsor/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonesponsor/"/>
+    </url>
+    <url>
+        <loc>Nonees/starlette_request_object/</loc>
+        <lastmod>2025-03-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="es" href="Nonees/starlette_request_object/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonestarlette_request_object/"/>
+    </url>
+    <url>
+        <loc>Nonees/validations/</loc>
+        <lastmod>2025-03-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="es" href="Nonees/validations/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonevalidations/"/>
+    </url>
+    <url>
+        <loc>Nonees/websockets/</loc>
+        <lastmod>2025-03-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="es" href="Nonees/websockets/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonewebsockets/"/>
+    </url>
+    <url>
+        <loc>Nonees/dto/dto/</loc>
+        <lastmod>2025-03-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="es" href="Nonees/dto/dto/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonedto/dto/"/>
+    </url>
+    <url>
+        <loc>Nonees/dto/generic_response/</loc>
+        <lastmod>2025-03-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="es" href="Nonees/dto/generic_response/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonedto/generic_response/"/>
+    </url>
+    <url>
+        <loc>Nonees/other/alternatives/</loc>
+        <lastmod>2025-03-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="es" href="Nonees/other/alternatives/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneother/alternatives/"/>
+    </url>
+    <url>
+        <loc>Nonees/other/coming_soon/</loc>
+        <lastmod>2025-03-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="es" href="Nonees/other/coming_soon/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneother/coming_soon/"/>
+    </url>
+    <url>
+        <loc>Nonees/other/license/</loc>
+        <lastmod>2025-03-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="es" href="Nonees/other/license/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneother/license/"/>
+    </url>
+    <url>
+        <loc>Nonees/services/context/</loc>
+        <lastmod>2025-03-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="es" href="Nonees/services/context/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneservices/context/"/>
+    </url>
+    <url>
+        <loc>Nonees/services/default_services/</loc>
+        <lastmod>2025-03-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="es" href="Nonees/services/default_services/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneservices/default_services/"/>
+    </url>
+</urlset>
