@@ -11,7 +11,7 @@ authors = [
   { name="Jonathan Espinal", email="jonathan.espinal@gmail.com" },
 ]
 
-description = "A plugin for Starlette designed to create APIs more easily and professionally."
+description = "Cafeto is a lightweight yet powerful framework designed as a top layer over Starlette, focusing on simplifying and accelerating the development of modern APIs. It harnesses the robust foundation of Starlette, offering additional tools for more efficient and organized development."
 
 readme = "README.md"
 
@@ -45,8 +45,8 @@ dependencies = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/pypa/sampleproject"
-Issues = "https://github.com/pypa/sampleproject/issues"
+Homepage = "https://github.com/if-geek/cafeto"
+Issues = "https://github.com/if-geek/cafeto"
 
 [project.scripts]
 cafeto = "cafeto:main"
